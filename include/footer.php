@@ -1,8 +1,8 @@
-    <div class="footer">
-        <div class="copyright">
-            <p>Copyright © Designed &amp; Developed by <a href="https://frhnn772.github.io" target="_blank">Frhnn.</a> 2022</p>
-        </div>
+<div class="footer">
+    <div class="copyright">
+        <p>Copyright © Designed &amp; Developed by <a href="https://frhnn772.github.io" target="_blank">Frhnn.</a> 2022</p>
     </div>
+</div>
 
 
 
